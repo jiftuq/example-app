@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/injecti0n/example-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/injecti0n/example-app/static/js/main.a5ea65c1.chunk.js",
-    "main.js.map": "/injecti0n/example-app/static/js/main.a5ea65c1.chunk.js.map",
-    "runtime-main.js": "/injecti0n/example-app/static/js/runtime-main.e11de4bd.js",
-    "runtime-main.js.map": "/injecti0n/example-app/static/js/runtime-main.e11de4bd.js.map",
-    "static/js/2.b309b3ef.chunk.js": "/injecti0n/example-app/static/js/2.b309b3ef.chunk.js",
-    "static/js/2.b309b3ef.chunk.js.map": "/injecti0n/example-app/static/js/2.b309b3ef.chunk.js.map",
-    "index.html": "/injecti0n/example-app/index.html",
-    "precache-manifest.e24af1c35a44820bd24bd12b8b2ec50a.js": "/injecti0n/example-app/precache-manifest.e24af1c35a44820bd24bd12b8b2ec50a.js",
-    "service-worker.js": "/injecti0n/example-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/injecti0n/example-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b309b3ef.chunk.js.LICENSE.txt": "/injecti0n/example-app/static/js/2.b309b3ef.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/injecti0n/example-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/example-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/example-app/static/js/main.4aea84bf.chunk.js",
+    "main.js.map": "/example-app/static/js/main.4aea84bf.chunk.js.map",
+    "runtime-main.js": "/example-app/static/js/runtime-main.ac23c968.js",
+    "runtime-main.js.map": "/example-app/static/js/runtime-main.ac23c968.js.map",
+    "static/js/2.b309b3ef.chunk.js": "/example-app/static/js/2.b309b3ef.chunk.js",
+    "static/js/2.b309b3ef.chunk.js.map": "/example-app/static/js/2.b309b3ef.chunk.js.map",
+    "index.html": "/example-app/index.html",
+    "precache-manifest.5a428d6ed9acb033ce7ce19445a7982b.js": "/example-app/precache-manifest.5a428d6ed9acb033ce7ce19445a7982b.js",
+    "service-worker.js": "/example-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/example-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b309b3ef.chunk.js.LICENSE.txt": "/example-app/static/js/2.b309b3ef.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/example-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e11de4bd.js",
+    "static/js/runtime-main.ac23c968.js",
     "static/js/2.b309b3ef.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.a5ea65c1.chunk.js"
+    "static/js/main.4aea84bf.chunk.js"
   ]
 }
