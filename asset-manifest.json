@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/injecti0n/example-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/injecti0n/example-app/static/js/main.3a8bd3c2.chunk.js",
+    "main.js.map": "/injecti0n/example-app/static/js/main.3a8bd3c2.chunk.js.map",
+    "runtime-main.js": "/injecti0n/example-app/static/js/runtime-main.a29e2147.js",
+    "runtime-main.js.map": "/injecti0n/example-app/static/js/runtime-main.a29e2147.js.map",
+    "static/js/2.d32e616c.chunk.js": "/injecti0n/example-app/static/js/2.d32e616c.chunk.js",
+    "static/js/2.d32e616c.chunk.js.map": "/injecti0n/example-app/static/js/2.d32e616c.chunk.js.map",
+    "index.html": "/injecti0n/example-app/index.html",
+    "precache-manifest.fb2b929b51ea319eccfdc94a6e92e888.js": "/injecti0n/example-app/precache-manifest.fb2b929b51ea319eccfdc94a6e92e888.js",
+    "service-worker.js": "/injecti0n/example-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/injecti0n/example-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d32e616c.chunk.js.LICENSE.txt": "/injecti0n/example-app/static/js/2.d32e616c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/injecti0n/example-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a29e2147.js",
+    "static/js/2.d32e616c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3a8bd3c2.chunk.js"
+  ]
+}
